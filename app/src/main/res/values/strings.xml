@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Codon Analyzer</string>
+	
+    <string name="main_analyze_codon">Press to analyze codon</string>
+	<string name="main_code_codon">Codon (mRNA)</string>
+	<string name="main_code_anti">Anti Codon (tRNA)</string>
+	<string name="main_code_triplet">Triplet Code (DNA)</string>
+	<string name="main_erase_input">ERASE</string>
+	<string name="main_input_info">Input Codon/Anti Codon/Triplet  Code from 5\' to 3\' direction. If direction is wrong, analyze  result may has some  errors.</string>
+	
+	<string name="analyze_cancel">Canceled</string>
+	<string name="analyze_error">An Error Occured. Please check your input.</string>
+	<string name="analyze_no_aug">Initiation codon(AUG) is not found.</string>
+	<string name="analyze_no_ending">Terminating codon(UAA, UAG, UGA) is not found.</string>
+	<string name="analyze_ongoing">Analyzing...</string>
+	<string name="analyze_result">Analyze result</string>
+	<string name="analyze_result_input">Your input is like this...</string>
+	<string name="analyze_result_output">And output is...</string>
+	<string name="analyze_start">Press OK to start analyzing. It may take a while.</string>
+	
+	<string name="dialog_cancel">Cancel</string>
+	<string name="dialog_ok">OK</string>
+	
+	<string name="codon_alanine">Alanine</string>
+	<string name="codon_arginine">Arginine</string>
+	<string name="codon_asparagine">Asparagine</string>
+	<string name="codon_aspartic">Aspartic acid</string>
+	<string name="codon_cysteine">Cysteine</string>
+	<string name="codon_glutamic">Glutamic acid</string>
+	<string name="codon_glutamine">Glutamine</string>
+	<string name="codon_glycine">Glycine</string>
+	<string name="codon_histidine">Histidine</string>
+	<string name="codon_isoleucine">Isoleucine</string>
+	<string name="codon_leucine">Leucine</string>
+	<string name="codon_lysine">Lysine</string>
+	<string name="codon_mesythonine">Mesythonine (Initiaion Codon)</string>
+	<string name="codon_phenylalanine">Phenylalanine</string>
+	<string name="codon_proline">Proline</string>
+	<string name="codon_serine">Serine</string>
+	<string name="codon_term_uaa">UAA (Terminating Codon)</string>
+	<string name="codon_term_uag">UAG (Terminating Codon)</string>
+	<string name="codon_term_uga">UGA (Terminating Codon)</string>
+	<string name="codon_threonine">Threonine</string>
+	<string name="codon_tryptophan">Tryptophan</string>
+	<string name="codon_tyrosine">Tyrosine</string>
+	<string name="codon_unknown">Unknown Codon</string>
+	<string name="codon_valin">Valin</string>
+	
+</resources>

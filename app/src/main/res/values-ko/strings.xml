@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">코돈 분석기</string>
+
+    <string name="main_analyze_codon">분석하기</string>
+	<string name="main_code_codon">코돈 (mRNA)</string>
+	<string name="main_code_anti">안티 코돈 (tRNA)</string>
+	<string name="main_code_triplet">트리플렛 코드 (DNA)</string>
+	<string name="main_erase_input">지우기</string>
+	<string name="main_input_info">하단의 버튼을 이용하여 코돈/안티코돈/트리플렛코드를 5\'에서  3\' 방향으로 입력해주세요. 방향이 올바르지 않을 경우 분석 결과에 영향을 줄 수 있습니다.</string>
+
+	<string name="analyze_cancel">취소되었습니다</string>
+	<string name="analyze_error">오류가 발생하였습니다. 입력된 내용을 다시 한번 확인해주세요.</string>
+	<string name="analyze_no_aug">개시코돈(AUG)을 찾을  수 없습니다.</string>
+	<string name="analyze_no_ending">종결코돈(UAA, UAG, UGA)을 찾을 수  없습니다.</string>
+	<string name="analyze_ongoing">분석중...</string>
+	<string name="analyze_result">분석 결과</string>
+	<string name="analyze_result_input">입력된 내용은 다음과 같습니다.</string>
+	<string name="analyze_result_output">다음은 입력된 내용을 분석한 결과입니다.</string>
+	<string name="analyze_start">확인을 누르시면 분석이 시작되며, 약간의  시간이  소요될 수 있습니다..</string>
+
+	<string name="dialog_cancel">취소</string>
+	<string name="dialog_ok">확인</string>
+
+	<string name="codon_alanine">알라닌</string>
+	<string name="codon_arginine">아르지닌</string>
+	<string name="codon_asparagine">아스파라진</string>
+	<string name="codon_aspartic">아스파트산</string>
+	<string name="codon_cysteine">시스테인</string>
+	<string name="codon_glutamic">글루탐산</string>
+	<string name="codon_glutamine">글루타민</string>
+	<string name="codon_glycine">글라이신</string>
+	<string name="codon_histidine">히스티딘</string>
+	<string name="codon_isoleucine">아이소류신</string>
+	<string name="codon_leucine">류신</string>
+	<string name="codon_lysine">라이신</string>
+	<string name="codon_mesythonine">메싸이오닌 (개시코돈)</string>
+	<string name="codon_phenylalanine">페닐알라닌</string>
+	<string name="codon_proline">프롤린</string>
+	<string name="codon_serine">세린</string>
+	<string name="codon_term_uaa">UAA (종결코돈)</string>
+	<string name="codon_term_uag">UAG (종결코돈)</string>
+	<string name="codon_term_uga">UGA (종결코돈)</string>
+	<string name="codon_threonine">트레오닌</string>
+	<string name="codon_tryptophan">트립토판</string>
+	<string name="codon_tyrosine">타이로신</string>
+	<string name="codon_unknown">알 수 없는 코돈</string>
+	<string name="codon_valin">발린</string>
+
+</resources>
